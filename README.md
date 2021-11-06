@@ -1,7 +1,7 @@
-# Inoxoft-bootcamp - Mushrooms claseficator
+# Inoxoft-bootcamp - Mushrooms classification
 
 ##
-## clsefication of poisonous Mushrooms 
+## classification of poisonous Mushrooms 
 ### Datasets 
 
 edible and poisonous fungi
