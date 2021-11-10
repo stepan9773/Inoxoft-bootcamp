@@ -9,7 +9,7 @@ edible and poisonous fungi
 https://www.kaggle.com/marcosvolpato/edible-and-poisonous-fungi
 ```
 
-## clsefication of Mushrooms type
+## classification of Mushrooms type
 In my opinion, looks cool when we can predict if a mushroom is a poison and certificate its type and recheck it on the web. so I think combining this problem may increase the profit of this classification
 
 ### Datasets 
