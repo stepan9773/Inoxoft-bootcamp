@@ -9,3 +9,5 @@ ENV PYTHONPATH "${PYTHONPATH}:/tf"
 
 RUN pip install scikit-learn
 RUN pip install seaborn
+RUN pip install mahotas
+RUN pip install opencv-python
