@@ -1,3 +1,4 @@
+
 # Inoxoft-bootcamp - Mushrooms classification
 
 ##
@@ -27,4 +28,5 @@ deepmushroom:
 https://www.kaggle.com/anilkrsah/deepmushroom
 ```
 Main part of data gets from  ```https://www.mushroom.world/home/index ```
+
 

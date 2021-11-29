@@ -1,3 +1,4 @@
+
 * make a ```Dockerfile```
 * run ```sudo docker build -t myproject .``` NOTE: rename from "myproject"
 * run ```sudo docker run -u $(id -u):$(id -g) -v $(pwd):/tf -it --rm -p 8888:8888 myproject``` to get a notebook
@@ -19,4 +20,5 @@ ENV PYTHONPATH "${PYTHONPATH}:/tf"
 RUN pip install scikit-learn
 RUN pip install seaborn
 ```
+
 
